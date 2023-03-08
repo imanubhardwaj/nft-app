@@ -1,0 +1,29 @@
+@font-face {
+  font-family: 'campton';
+  font-weight: 300;
+  src: url(../../public/fonts/CamptonLight.otf);
+}
+
+@font-face {
+  font-family: 'campton';
+  font-weight: 400;
+  src: url(../../public/fonts/CamptonBook.otf);
+}
+
+@font-face {
+  font-family: 'campton';
+  font-weight: 500;
+  src: url(../../public/fonts/CamptonMedium.otf);
+}
+
+@font-face {
+  font-family: 'campton';
+  font-weight: 600;
+  src: url(../../public/fonts/CamptonSemiBold.otf);
+}
+
+@font-face {
+  font-family: 'campton';
+  font-weight: 700;
+  src: url(../../public/fonts/CamptonBold.otf);
+}

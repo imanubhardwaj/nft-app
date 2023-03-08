@@ -1,0 +1,4 @@
+.custom-dialog .MuiPaper-root {
+  @apply max-w-max !important;
+  @apply rounded-lg !important;
+}
